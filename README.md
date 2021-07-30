@@ -1,7 +1,13 @@
 # PÓKER CLÁSICO
 
 ## Overview
-El siguiente código simula un juego de póker clásico.
+The following code simulates a classic poker game.
+
+## Programming language
+Python
+
+## IDE
+Jupyter Notebook
 
 El póker clásico es un juego de cartas en el que se utiliza una baraja de 52 cartas. En este juego se reparten 5 cartas a cada jugador, por lo que el mínimo de jugadores es 2 y el máximo es 9. 
 
